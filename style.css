@@ -369,7 +369,7 @@ h2 {
         margin-left: 0 auto;
     }
     #ShowPassword1, #ShowPassword2 {
-        transform: translate(60px, -28px);
+        transform: translate(60px, -30px);
         font-size: 14px;
     }
     #kuaitun, #kuaitun_finalfrom {
@@ -399,3 +399,4 @@ h2 {
     }
 
 }
+
